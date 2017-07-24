@@ -19,7 +19,7 @@
 * Montage des Kallax Regals
 * Zusammenbau des MixerFrame
 * Montage der Pumpen (Kabel + Einbau in Mixerframe)
-* Einbau des MixerFram in Kallax Regal
+* Einbau des MixerFrame in Kallax Regal
 * elektrischer Anschluß der Pumpen an Motorshield oder Relaisboard
 * Inbetriebnahme des Raspberry Pi (Flashen der SD Karte)
 * Einbau des Raspberry Pi inkl. CodeMeter Dongle
