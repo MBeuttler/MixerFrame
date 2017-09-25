@@ -1,4 +1,4 @@
-#Vor
+#Vorbereitung
 ## Bestandteile
 * Raspberry Pi Kit
 * CodeMeter (DVD Hülle)
