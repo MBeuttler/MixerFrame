@@ -91,7 +91,7 @@ STANDARD
   9
 $CLAYER
   8
-3mm Acrylic
+Cut
   9
 $CELTYPE
   6
@@ -1115,9 +1115,9 @@ AcDbViewportTableRecord
  21
 1
  12
-345.0187755147714
+260.1447284345347
  22
-197.2352569222802
+154.9525914093185
  13
 0
  23
@@ -1143,7 +1143,7 @@ AcDbViewportTableRecord
  37
 0
  40
-496.8041688853957
+317.9546680866536
  41
 1.800920598388953
  42
@@ -6954,6 +6954,28 @@ AcDbLine
 253.5
  21
 160
+  0
+CIRCLE
+  5
+F9
+100
+AcDbEntity
+  8
+Cut
+  6
+ByLayer
+ 62
+  256
+370
+   -1
+100
+AcDbCircle
+ 10
+220
+ 20
+170
+ 40
+8
   0
 ENDSEC
   0
